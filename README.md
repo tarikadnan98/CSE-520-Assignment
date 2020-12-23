@@ -1,5 +1,5 @@
-# CSE-520-Assignment
-## Assignment of Basic statistics and plotting 
+# CSE-520
+## Basic statistics and plotting 
 
 ###########################################
 ## About the files in this repository
