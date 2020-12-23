@@ -1,4 +1,4 @@
-# CSE-520-Assignment-1
+# CSE-520-Assignment
 ## Assignment of Basic statistics and plotting 
 
 ###########################################
